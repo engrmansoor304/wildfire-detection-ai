@@ -153,7 +153,7 @@ weighted avg 0.97 0.97 0.97 3161
 pip install -r requirements.txt
 MIT License
 
-Copyright (c) 2026 Mansoorrr
+Copyright (c) 2026 Mansoor
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files...
@@ -168,4 +168,4 @@ Streamlit Team for web app framework
 
 📞 Contact
 Mansoor
-Project Link: https://github.com/Mansoorrr/wildfire-detection-ai
+Project Link: https://github.com/engrmansoor304
