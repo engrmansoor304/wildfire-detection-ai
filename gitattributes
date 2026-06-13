@@ -1,0 +1,17 @@
+models/best_model.pth filter=lfs diff=lfs merge=lfs -text
+models/EfficientNet-B0_best.pth filter=lfs diff=lfs merge=lfs -text
+models/final_model.pth filter=lfs diff=lfs merge=lfs -text
+models/MobileNetV2_best.pth filter=lfs diff=lfs merge=lfs -text
+models/MobileNetV3_best.pth filter=lfs diff=lfs merge=lfs -text
+results/3d_acc.png filter=lfs diff=lfs merge=lfs -text
+results/augmentation_demo.png filter=lfs diff=lfs merge=lfs -text
+results/chart_3d_accuracy.png filter=lfs diff=lfs merge=lfs -text
+results/chart_3d_confidence.png filter=lfs diff=lfs merge=lfs -text
+results/chart_3d_loss.png filter=lfs diff=lfs merge=lfs -text
+results/chart_gauge.png filter=lfs diff=lfs merge=lfs -text
+results/chart_heatmap.png filter=lfs diff=lfs merge=lfs -text
+results/chart_radar.png filter=lfs diff=lfs merge=lfs -text
+results/radar_hd.png filter=lfs diff=lfs merge=lfs -text
+results/sample_images.png filter=lfs diff=lfs merge=lfs -text
+results/top5_correct.png filter=lfs diff=lfs merge=lfs -text
+results/top5_wrong.png filter=lfs diff=lfs merge=lfs -text
