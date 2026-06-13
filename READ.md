@@ -113,3 +113,59 @@ This tool can help:
 | 🌳 Forest image | NO WILDFIRE | 88-95% | 🟢 Low activation |
 
 ### Performance Metrics
+Classification Report:
+precision recall f1-score support
+nowildfire 0.97 0.96 0.96 1580
+wildfire 0.96 0.97 0.96 1581
+
+accuracy 0.97 3161
+macro avg 0.97 0.97 0.97 3161
+weighted avg 0.97 0.97 0.97 3161
+
+---
+
+## 🚀 Live Demo
+
+**Try the live application here:**
+
+👉 **[https://huggingface.co/spaces/Mansoorrr/wildfire-detection-ai](https://huggingface.co/spaces/Mansoorrr/wildfire-detection-ai)**
+
+### Demo Instructions:
+1. Click the link above
+2. Upload a satellite image (JPG, PNG, JPEG)
+3. Wait for AI analysis (<1 second)
+4. View predictions from all 3 models
+5. Explore Grad-CAM heatmaps
+6. Download PDF report (optional)
+
+---
+
+## 💻 Local Installation
+
+### Prerequisites
+- Python 3.10 or higher
+- pip package manager
+- 4GB RAM minimum (8GB recommended)
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+MIT License
+
+Copyright (c) 2026 Mansoorrr
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files...
+🙏 Acknowledgments
+Groq for free API access to LLaMA3-70B
+
+Hugging Face for free Spaces hosting
+
+PyTorch Team for deep learning framework
+
+Streamlit Team for web app framework
+
+📞 Contact
+Mansoor
+Project Link: https://github.com/Mansoorrr/wildfire-detection-ai
